@@ -48,7 +48,7 @@ Total records: **16,695**
 The project performs exploratory data analysis using multiple visualization techniques:
 
 **1️⃣ Average AQI by Pollutant**  
-Identifies the pollutants contributing most to poor air quality.
+ Identifies the pollutants contributing most to poor air quality.
 
 **2️⃣ AQI Distribution**  
 Histogram showing how AQI values vary across locations.
