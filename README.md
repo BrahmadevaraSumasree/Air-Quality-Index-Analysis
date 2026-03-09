@@ -47,22 +47,22 @@ Total records: **16,695**
 
 The project performs exploratory data analysis using multiple visualization techniques:
 
-**1️⃣ Average AQI by Pollutant**
+**1️⃣ Average AQI by Pollutant**  
 Identifies the pollutants contributing most to poor air quality.
 
-**2️⃣ AQI Distribution**
+**2️⃣ AQI Distribution**  
 Histogram showing how AQI values vary across locations.
 
-**3️⃣ Geographical AQI Mapping**
+**3️⃣ Geographical AQI Mapping**  
 Scatter plot visualizing AQI values using **latitude and longitude coordinates**.
 
-**4️⃣ Pollutant Variability**
+**4️⃣ Pollutant Variability**  
 Box plots highlight distribution and outliers among pollutants.
 
-**5️⃣ Spatial Density Analysis**
+**5️⃣ Spatial Density Analysis**  
 Hexbin plot reveals **pollution hotspots across global regions.**
 
-**6️⃣ Correlation Analysis**
+**6️⃣ Correlation Analysis**  
 Heatmap showing relationships between pollutants and overall AQI.
 
 ## 🔍 Key Insights
