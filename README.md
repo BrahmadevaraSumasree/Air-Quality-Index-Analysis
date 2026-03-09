@@ -1,4 +1,4 @@
-# 🌍Air Quality Index
+# 🌍Air Quality Index Analysis
 
 A data analytics project that explores **global Air Quality Index (AQI) patterns** using pollutant data and geographical coordinates.  
 The project uses **Python-based data analysis and visualization** techniques to understand pollution trends and relationships between pollutants.
